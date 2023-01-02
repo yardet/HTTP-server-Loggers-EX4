@@ -1,0 +1,7 @@
+02-01-2023 15:22:50.043 INFO: Incoming request | #1 | resource: /stack/size | HTTP Verb GET | request #1
+02-01-2023 15:23:28.587 INFO: Incoming request | #2 | resource: /stack/arguments | HTTP Verb PUT | request #2
+02-01-2023 15:24:19.814 INFO: Incoming request | #3 | resource: /independent/calculate | HTTP Verb POST | request #3
+02-01-2023 15:24:19.821 DEBUG: request #3 duration: 6ms | request #3
+02-01-2023 22:46:09.302 INFO: Incoming request | #1 | resource: /logs/level | HTTP Verb GET | request #1
+02-01-2023 22:46:15.339 INFO: Incoming request | #2 | resource: /stack/size | HTTP Verb GET | request #2
+02-01-2023 22:46:21.438 INFO: Incoming request | #3 | resource: /independent/calculate | HTTP Verb POST | request #3
